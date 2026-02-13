@@ -59,15 +59,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-**Muhammad Ghulam Jillani**
-- **Email**: [[email redacted]](mailto:[email redacted])
-- **LinkedIn**: [linkedin.com/in/jillanisofttech](https://linkedin.com/in/jillanisofttech)
-- **GitHub**: [github.com/MGJillaniMughal](https://github.com/MGJillaniMughal)
-- **Website**: [mgjillanimughal.github.io](https://mgjillanimughal.github.io)
-- **Kaggle**: [kaggle.com/jillanisofttech](https://kaggle.com/jillanisofttech)
-- **Medium**: [jillanisofttech.medium.com](https://jillanisofttech.medium.com)
-- **Calendly**: [calendly.com/jillanisofttech/30mins](https://calendly.com/jillanisofttech/30mins)
-
-Feel free to reach out if you have any questions or collaboration ideas!
