@@ -9,7 +9,6 @@ Welcome to **DocuWiz AI**, an advanced document intelligence application designe
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Features
 - **Text Extraction**: Supports PDFs, DOCX, TXT, PPTX, CSV, and XLSX.
